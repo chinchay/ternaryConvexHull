@@ -17,5 +17,5 @@ pip install -r requirements.txt
 python convexhull.py
 ```
 
-The `CoLiSn_DFTrelaxedwithProt.tex` will be created using crystal structure data from `train2_joined.cfg`. If `pdflatex` is already installed in your system, a `*.pdf` file will also be generated. Additionally, an `*.html` file is also created for interactive visualization on a web browser.
+The `CoLiSn_DFTrelaxedwithProt.tex` will be created using crystal structure data from `train2_joined.cfg`. A `pdf` document will be generated as well if `pdflatex` is already installed. Additionally, an `*.html` is offered for interactive visualization on a web browser.
 
